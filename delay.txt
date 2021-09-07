@@ -1,0 +1,19 @@
+#for Delay in LAN vs throughput
+#x - axis = Delay in LAN
+#y - axis = throughput
+
+
+#plot for tcp
+40 0.764009
+50 0.612297
+100 0.274279					 
+150 0.150951
+200 0.074137
+	
+
+#plot for udp
+40 0.447656
+50 0.447657
+100 0.447656
+150 0.447656
+200 0.447656

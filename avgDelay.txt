@@ -1,0 +1,20 @@
+#for execution time v/s avg delay
+#x - axis = execution time
+#y - axis = avg delay
+
+
+#plot 1 for tcp
+1 94.55
+2 94.36
+3 94.36
+4 94.55
+5 94.55
+
+
+#plot 2 for udp
+1 94.55
+2 94.36
+3 94.36
+4 94.55
+5 94.55
+

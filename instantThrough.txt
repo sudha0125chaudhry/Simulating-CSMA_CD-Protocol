@@ -1,0 +1,20 @@
+#for execution time v/s throughput
+#x - axis = execution time
+#y - axis = throughput
+
+
+#plot 1 for tcp
+1 37.338702 
+2 0.403590
+3 0.202892
+4 0.135506
+5 0.101722
+
+
+#plot 2 for udp
+1 37.666667
+2 0.446640
+3 0.223657
+4 0.149181
+5 0.112662
+

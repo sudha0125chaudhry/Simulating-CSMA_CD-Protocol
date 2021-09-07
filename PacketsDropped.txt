@@ -1,0 +1,14 @@
+#for number of links v/s packets dropped
+#x - axis = number of links
+#y - axis = packets dropped
+
+
+#plot 1 for tcp
+13 740
+16 738
+19 738
+
+#plot 2 for udp
+13 448
+16 448
+19 448

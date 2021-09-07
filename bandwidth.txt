@@ -1,0 +1,19 @@
+#for Bandwidth in LAN vs throughput
+#x - axis = Bandwidth in LAN
+#y - axis = throughput
+
+
+#plot for tcp
+0.5 0.764009
+1.0 0.764009
+5.0 0.764009
+100 0.764009
+500 0.764009
+	  
+
+#plot for udp
+0.5 0.447656
+1.0 0.447656
+5.0 0.447656
+100 0.447656
+500 0.447656
